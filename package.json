@@ -1,0 +1,26 @@
+{
+  "name": "elm-openlayers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notnotse/elm-openlayers.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/notnotse/elm-openlayers/issues"
+  },
+  "homepage": "https://github.com/notnotse/elm-openlayers#readme",
+  "dependencies": {
+    "ol": "^5.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
